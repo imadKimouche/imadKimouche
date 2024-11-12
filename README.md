@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Imad</h1>
-<h3 align="center">A passionate software engineer, with extensive React Native experience, with a strong background in building healthcare tech solutions</h3>
+<h1 align="left">Hi, I'm Imad</h1>
+<h3 align="lfet">A software engineer</h3>
 
-- 💼 Currently working for [ERM Automatismes](https://www.erm-automatismes.com/), and building software for healthcare assistant robots
-- 🔭 Building [Lablink Dental](https://www.lablinkdental.com/), and helping dental professionals streamline their workflow
-- Eager to learn and explore new technologies
+- Currently working for [ERM Automatismes](https://www.erm-automatismes.com/), and building software for healthcare assistant robots
+- Building [Lablink Dental](https://www.lablinkdental.com/), and helping dental professionals streamline their workflow
 
 ---
 
-<h3 align="left">🧰 Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -19,18 +18,18 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> 
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
-</a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
 </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="30" height="30"/> 
 </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
+</a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
+</a>
 </p>
 
 #

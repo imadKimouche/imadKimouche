@@ -2,7 +2,7 @@
 <h3 align="lfet">A software engineer</h3>
 
 - Currently working for [ERM Automatismes](https://www.erm-automatismes.com/), and building software for healthcare assistant robots
-- Building [Lablink Dental](https://www.lablinkdental.com/), and helping dental professionals streamline their workflow
+- Building [Lablink Dental](https://lablinkdental.com/), and helping dental professionals streamline their workflow
 
 ---
 
